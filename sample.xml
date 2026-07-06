@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset name="TwoLeaveShop1front">
+   <frame number="6">
+        <objectlist>
+            <object id="0">
+                <orientation>90</orientation>
+                <box xc="296" yc="134" w="32" h="55"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis id="1" prev="1.0" evaluation="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+        </objectlist>
+        <grouplist/>
+    </frame>
+</dataset>
